@@ -1,0 +1,38 @@
+Objective: The goal of this project is to assume that an employee file has been created in an obsolete system. The program reads in the file, process the text to be more standardized, create an object for each person with corrections from the user, and output each person’s information. Each persons attribute has requirements to be met such as:
+	1)  modify last name and first name to be in Capital Case, if necessary
+	2)  modify middle initial to be a single upper case letter, if necessary. Use ‘X’ as a middle initial if one is missing
+	3)  modify id if necessary, using regex. The id should be 2 letters followed by 4 digits. If an id is not in the correct format, output an error message, and allow the user to re-enter a valid ID
+	4)  modify phone number, if necessary, to be in form 999-999-9999. Use regex.
+
+Platform : macOS
+IDE: PyCharm
+
+To Run: place the input file in a folder named data within the same folder as your Python program. Specify the relative path ‘data/data.csv’ in a sysarg. 
+
+
+Input: The input file (data.csv) looks like this. Last,First,Middle Initial,ID,Office phone 
+						  Smith,Smitty,S,WH1234,5557771212 
+						  WILLIAMS,WITTY,W,S4454,555-877.4321 
+						  Luka,Luka,L,OF4321,555.888.3456 
+						  jason,jake,,WH409,555 777 2094 
+					          Krishna,krishna,k,SA9384,555 888 0093
+
+Output
+Employee list:
+Employee id: WH1234 Smitty S Smith
+555-777-1212
+Employee id: SA4454 Witty W Williams
+555-877-4321
+Employee id: OF4321 Luka L Luka
+555-888-3456
+Employee id: WH5409 Jake X Jason 555-777-2094
+Employee id: SA9384 Krishna K Krishna
+555-888-0093
+
+Side note:
+From my personal experience, I don’t believe that python3 has any weaknesses  for Text processing. Having the ability to import modules and use API’s makes the task easier. There were may things I’ve learned from this 
+assignment; such as, using different data structures, basic file I/o operations, maneuvering in PyCharm, debug in a new environment, and many  other basic introductory operations.  I enjoyed this assignment and hope
+to learn many other techniques used in Natural Language Processing. 
+
+
+
