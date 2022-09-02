@@ -30,7 +30,7 @@ Employee id: SA9384 Krishna K Krishna
 555-888-0093
 
 Side note:
-From my personal experience, I don’t believe that python3 has any weaknesses for Text processing. Having the ability to import modules and use API’s makes the task easier. There were may things I’ve learned from this assignment; such as, using different data structures, basic file I/o operations, maneuvering in PyCharm, debug in a new environment, and many  other basic introductory operations.  I enjoyed this assignment and hope to learn many other techniques used in Natural Language Processing. 
+From my personal experience, I don’t believe that python3 has any weaknesses for Text processing. Having the ability to import modules and use API’s makes the task easier. There were may things I’ve learned from this assignment; such as, using different data structures, basic file I/o operations, maneuvering in PyCharm, debug in a new environment, and many other basic introductory operations. I enjoyed this assignment and hope to learn many other techniques used in Natural Language Processing. 
 
 
 
