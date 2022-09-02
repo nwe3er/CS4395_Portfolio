@@ -8,5 +8,9 @@ Here is the document for assignemt 0 [Document](Overview_of_NLP.pdf)
 
 ## Assignment 1: Text Processing with Python
 This assignment contains an introduction summarizing historical and current approaches to NLP and my personal interest in NLP.
-Here is the source code [code](Homework1_nxw180009.py)
+[Overview](overview.txt)
+[code](Homework1_nxw180009.py)
+[InputFile](Homework1_nxw180009.py)
+
+
 
