@@ -13,5 +13,5 @@ Links: [Overview](overview.txt) [code](Homework1_nxw180009.py) [InputFile](data.
 
 
 ## Assignment 3: Exploring NLTK
-This task of this assignment is to practice using features of NLTK and examine a professional-level NLP API. 
+The task of this assignment is to practice using features of NLTK and examine a professional-level NLP API. 
 [PDF](Assignment3.pdf)
