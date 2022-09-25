@@ -24,3 +24,8 @@ The task of this assignment is to practice using features of NLTK and examine a 
 This project uses Python and NLTK features to explore a text file and creates a word guessing game.
 
 Links: [Task](Task.pdf) [code](Chapter5GuessGame_nxw180009.py) [InputFile](anat19.txt)
+
+## WordNet
+This project demonstrate basic skills using WordNet and SentiWordNe. The goal is to learn to identify collocations.
+
+Links: [Task](Task.pdf) [PDF](WordNet_nxw180009.pdf) [Interactive Code](WordNet_nxw180009.ipynb)
