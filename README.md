@@ -28,4 +28,4 @@ Links: [Task](Task.pdf) [code](Chapter5GuessGame_nxw180009.py) [InputFile](anat1
 ## WordNet
 This project demonstrate basic skills using WordNet and SentiWordNe. The goal is to learn to identify collocations.
 
-Links: [Task](Task.pdf) [PDF](WordNet_nxw180009.pdf) [Interactive Code](WordNet_nxw180009.ipynb)
+Links: [Task](Task.pdf) [PDF](WordNet_nxw180009.pdf)
