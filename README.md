@@ -41,13 +41,13 @@ Input file for Program1:
 3. [Italian Training file](LangId.train.French)
 
 Output file for Program1: 
-1. [English Pickle unigram](English_unigram_dict.p) [English Pickle biagram](English_biagram_dict.p)
-2. [French Pickle unigram](French_unigram_dict.p) [French Pickle biagram](French_biagram_dict.p)
-3. [Italian Pickle unigram](Italian_unigram_dict.p) [Italian Pickle biagram](Italian_biagram_dict.p)
+1. [English Pickle unigram](English_unigram_dict.p) [English Pickle bigram](English_bigram_dict.p)
+2. [French Pickle unigram](French_unigram_dict.p) [French Pickle bigram](French_bigram_dict.p)
+3. [Italian Pickle unigram](Italian_unigram_dict.p) [Italian Pickle bigram](Italian_bigram_dict.p)
 
 
 Input file for program2: 
 1. [Test data](LangId.sol)
 
 Output file for Program2: 
-1. [My accuracy](LangId.sol)
+1. [My accuracy](highestProbability)
