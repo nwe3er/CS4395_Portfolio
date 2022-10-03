@@ -33,7 +33,7 @@ Links: [Task](Task.pdf) [PDF](WordNet_nxw180009.pdf)
 ## Ngrams
 This project creates bigram and unigram dictionaries for English, French, and Italian using the provided training data where the key is the unigram or bigram text and the value is the count of that unigram or bigram in the data. Then for the test data, calculate probabilities for each language and compare against the true labels.
 
-[Task](Task1.pdf)[^1]
+[Task](Task1.pdf)
 
 Input file for Program1: 
 1. [English Training file](LangId.train.English) 
