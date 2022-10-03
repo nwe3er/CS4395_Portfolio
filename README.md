@@ -33,7 +33,8 @@ Links: [Task](Task.pdf) [PDF](WordNet_nxw180009.pdf)
 ## Ngrams
 This project creates bigram and unigram dictionaries for English, French, and Italian using the provided training data where the key is the unigram or bigram text and the value is the count of that unigram or bigram in the data. Then for the test data, calculate probabilities for each language and compare against the true labels.
 
-[Task](Task1.pdf) 
+[Task](Task1.pdf)[^1]
+
 Input file for Program1: 
 1. [English Training file](LangId.train.English) 
 2. [French Training file](LangId.train.French) 
@@ -45,6 +46,8 @@ Output file for Program1:
 3. [Italian Pickle unigram](Italian_unigram_dict.p) [Italian Pickle biagram](Italian_biagram_dict.p)
 
 
-Input file for program2: 1. [Test data](LangId.sol)
+Input file for program2: 
+1. [Test data](LangId.sol)
 
-Output file for Program2: 1. LangId.sol
+Output file for Program2: 
+1. [My accuracy](LangId.sol)
