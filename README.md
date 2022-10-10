@@ -51,3 +51,13 @@ Input file for program2:
 
 Output file for Program2: 
 1. [My accuracy](highestProbability)
+
+## Finding or Building a Corpus
+This project is to 
+• Understand the importance of corpora in NLP tasks
+• Understand basic HTML
+• Understand how web sites work
+• Be able to do web scraping with Beautiful Soup or other APIs
+• Create a web crawler
+
+[Task](webScraper.pdf) [code](Nebil&ZachWebScraper.py) [Report](WebCrawler_Report.docx)
