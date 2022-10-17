@@ -61,3 +61,12 @@ This project is to
 - Create a web crawler
 
 [Task](webScraper.pdf) [code](Nebil&ZachWebScraper.py) [Report](WebCrawler_Report.docx)
+
+## Sentence Parsing
+This project is to 
+- Understand concepts related to sentence syntax
+- Understand the 3 types of sentence parses: PSG, dependency, and SRL
+- Be able to use syntax parsers
+
+[Task](here.pdf) [Report](SentenceParsing.pdf)
+
