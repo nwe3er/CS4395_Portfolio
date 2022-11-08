@@ -75,5 +75,5 @@ This project is to
 • Gain experience with machine learning using sklearn
 • Experiment with the NLP task author attribution
 
-[Task](Portfolio - Federalist Papers.pdf) [dataset](federalist.csv) [Report](AuthorAttribution_nxw180009.pdf)
+[Task](Papers.pdf) [dataset](federalist.csv) [Report](AuthorAttribution_nxw180009.pdf)
 
